@@ -21,17 +21,3 @@ function sayHiToGrandma(string) {
   return "I can't hear you!"
 }
 }
-
-
-function sayHiToGrandma(string) {
-  if (string.toUpperCase()) {
-  return 'YES INDEED!'
-}
-}
-
-function sayHiToGrandma(string) {
-var string = 'I love you, Grandma.'
-  if (string) {
-  return 'I love you, too.'
-}
-}
